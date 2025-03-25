@@ -34,5 +34,3 @@ class Solution:
             return 2**31 - 1
             
         return result
-    
-print(Solution().myAtoi(s="++1"))
